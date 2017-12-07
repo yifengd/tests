@@ -8,3 +8,6 @@ Okay but can I add this too? readme3
 Can I add this thing here now?
 
 And this thing here (I am readme2)
+
+
+I've decided to add this line here (from the command line!)
